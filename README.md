@@ -1,4 +1,4 @@
-![Car-Collection-App](https://car-collection-app.onrender.com)
+- [Car-Collection-App](https://car-collection-app.onrender.com)
 
 This is a student project from SoftUni.
 
