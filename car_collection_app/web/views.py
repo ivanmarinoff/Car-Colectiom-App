@@ -1,8 +1,19 @@
 from django.shortcuts import render, redirect
-
-from car_collection_app.web.forms import ProfileCreateForm, CarCreateForm, CarEditForm, CarDeleteForm, ProfileEditForm, \
+from rest_framework import viewsets
+from .serializers import ProfileSerializer, CarSerializer
+from .forms import ProfileCreateForm, CarCreateForm, CarEditForm, CarDeleteForm, ProfileEditForm, \
     ProfileDeleteForm
-from car_collection_app.web.models import Profile, Car
+from .models import Profile, Car
+
+
+class ProfileViewSet(viewsets.ModelViewSet):
+    queryset = Profile.objects.all()
+    serializer_class = ProfileSerializer
+
+
+class CarViewSet(viewsets.ModelViewSet):
+    queryset = Car.objects.all()
+    serializer_class = CarSerializer
 
 
 def get_profile():
