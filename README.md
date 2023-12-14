@@ -29,5 +29,7 @@ This is a student project from SoftUni.
 ### Profile Details Page 
 ![Profile_updated](https://github.com/ivanmarinoff/Car-Collection-App/assets/107050101/2f1a4ebe-ac6d-443b-b7a4-160a8bd98672)
 
+
 ### Delete Profile Page 
+
 ![Profile_delete](https://github.com/ivanmarinoff/Car-Collection-App/assets/107050101/54cb89a7-302c-4df2-adf5-7dcaf1053069
