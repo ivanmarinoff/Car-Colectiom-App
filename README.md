@@ -1,6 +1,6 @@
 - [Car-Collection-App](https://car-collection-app.onrender.com)
 
-[![Django CI](https://github.com/ivanmarinoff/Car-Collection-App/actions/workflows/django.yml/badge.svg)](https://github.com/ivanmarinoff/Car-Collection-App/actions/workflows/django.yml)
+[![Django CI](https://github.com/ivanmarinoff/Car-Collection-App/actions/workflows/django.yml/badge.svg?branch=main)](https://github.com/ivanmarinoff/Car-Collection-App/actions/workflows/django.yml)
 
 This is a student project from SoftUni.
 
