@@ -31,5 +31,4 @@ This is a student project from SoftUni.
 
 
 ### Delete Profile Page 
-
 ![Profile_delete](https://github.com/ivanmarinoff/Car-Collection-App/assets/107050101/54cb89a7-302c-4df2-adf5-7dcaf1053069
